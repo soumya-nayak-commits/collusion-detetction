@@ -1,0 +1,6 @@
+rounds,net_influence_hit_rate,cramers_v_hit_rate,disagreements_of_200
+100,0.85,0.855,3
+250,0.96,0.96,0
+500,1.0,1.0,0
+1000,0.99,0.99,0
+2000,1.0,1.0,0

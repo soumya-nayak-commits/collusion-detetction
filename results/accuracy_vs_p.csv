@@ -1,0 +1,37 @@
+scenario,p,net_influence_hit_rate,cramers_v_hit_rate
+Basic (no decoy),0.0,0.135,0.14
+Basic (no decoy),0.1,0.755,0.76
+Basic (no decoy),0.2,1.0,1.0
+Basic (no decoy),0.3,1.0,1.0
+Basic (no decoy),0.4,1.0,1.0
+Basic (no decoy),0.5,1.0,1.0
+Basic (no decoy),0.6,1.0,1.0
+Basic (no decoy),0.7,1.0,1.0
+Basic (no decoy),0.8,1.0,1.0
+Hub (q=0.5),0.0,0.0,0.0
+Hub (q=0.5),0.1,0.0,0.0
+Hub (q=0.5),0.2,0.0,0.0
+Hub (q=0.5),0.3,0.0,0.0
+Hub (q=0.5),0.4,0.0,0.0
+Hub (q=0.5),0.5,0.31,0.3
+Hub (q=0.5),0.6,0.98,0.975
+Hub (q=0.5),0.7,1.0,1.0
+Hub (q=0.5),0.8,1.0,1.0
+Chain (q=0.5),0.0,0.0,0.0
+Chain (q=0.5),0.1,0.0,0.0
+Chain (q=0.5),0.2,0.0,0.0
+Chain (q=0.5),0.3,0.0,0.0
+Chain (q=0.5),0.4,0.0,0.0
+Chain (q=0.5),0.5,0.325,0.33
+Chain (q=0.5),0.6,0.985,0.985
+Chain (q=0.5),0.7,1.0,1.0
+Chain (q=0.5),0.8,1.0,1.0
+Separate decoy (q=0.5),0.0,0.0,0.0
+Separate decoy (q=0.5),0.1,0.0,0.0
+Separate decoy (q=0.5),0.2,0.0,0.0
+Separate decoy (q=0.5),0.3,0.0,0.0
+Separate decoy (q=0.5),0.4,0.01,0.01
+Separate decoy (q=0.5),0.5,0.54,0.54
+Separate decoy (q=0.5),0.6,1.0,1.0
+Separate decoy (q=0.5),0.7,1.0,1.0
+Separate decoy (q=0.5),0.8,1.0,1.0
