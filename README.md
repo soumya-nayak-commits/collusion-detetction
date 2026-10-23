@@ -92,6 +92,4 @@ figures/  results/        outputs
 
 Bonjour, T., Aggarwal, V., and Bhargava, B. (2022). Information theoretic approach to detect collusion in multi-agent games. Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence, PMLR 180:223-232. https://proceedings.mlr.press/v180/bonjour22a.html
 
-## LLM usage
 
-I used Claude to guide the project, help write code, and draft text. I ran all code and checked the results against my own outputs.
