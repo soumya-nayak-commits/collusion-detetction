@@ -101,7 +101,7 @@ For each method, the cutoff giving the best detection while keeping false alarms
 | 0.6 | hub only | 0.00 | 1.00 | 0.00 |
 | 0.6 | hidden only | 0.99 | 0.99 | 0.98 |
 
-![Detection vs false alarms, p = 0.6](figures/roc.png)
+![Detection vs false alarms, p = 0.6](figures/ROC.png)
 
 ROC-style curves at p = 0.6. In the hub-only panel MI is drawn underneath CV, so the two overlap. In the hub-only panel net influence reaches near-perfect detection at low false-alarm rates, while MI and CV stay near zero. In the hidden-only panel all three curves coincide.
 
