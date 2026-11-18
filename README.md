@@ -70,7 +70,7 @@ Separate decoy, p = 0.6, q = 0.5, 200 trials per point.
 
 Each row pools p = 0.0 to 0.8 (1,800 trials). The hub q = 0.3 and q = 0.7 rows are extra runs, so the total (63) is larger than the 49 above. The direction of the small differences flips between settings, so neither method is favored.
 
-**Why the tie.** Raw MI and net influence picked the same top pair in 3,600 of 3,600 games, so the subtraction never changed which pair ranked first. Raw MI and Cramér's V agreed in 3,590 of 3,600. A "who ranks the real pair first" test therefore cannot separate these methods here, which is why Experiment 2 measures false accusations instead.
+**Why the tie.** Raw MI and net influence picked the same top pair in 3,600 of 3,600 games (4 scenarios, 9 values of p, 100 trials each), so the subtraction never changed which pair ranked first. Raw MI and Cramér's V agreed in 3,590 of 3,600. A "who ranks the real pair first" test therefore cannot separate these methods here, which is why Experiment 2 measures false accusations instead.
 
 ### 2. False alarms in games with no collusion
 
@@ -114,7 +114,7 @@ One game (20,000 rounds, p = 0.8):
 | Pair | Flat MI | Conditional MI |
 |---|---|---|
 | (2, 3) real | 0.0002 | 0.8702 |
-| (0, 1) innocent | n/a | 0.0011 |
+| (0, 1) innocent | 0.0002 | 0.0011 |
 
 Share of games ranking (2, 3) first (1000 rounds, 100 games per p, chance = 1/6):
 
