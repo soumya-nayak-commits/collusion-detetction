@@ -50,5 +50,5 @@ for ax, (name, neg) in zip(axes, negs.items()):
         ax.plot(fpr, tpr, label=key)
     ax.set_title(name); ax.set_xlabel("False alarm rate"); ax.legend(); ax.grid(alpha=0.3)
 axes[0].set_ylabel("Correct detection rate")
-plt.tight_layout(); plt.savefig("figures/roc.png", dpi=150)
+plt.tight_layout(); plt.savefig("figures/ROC.png", dpi=150)
 print("done")
