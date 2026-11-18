@@ -1,0 +1,11 @@
+p,scenario,MI,NI,CV
+0.2,hub only (q=0.7),0.0,0.0,0.0
+0.2,hidden only (q=0.7),0.0,0.0,0.0
+0.3,hub only (q=0.7),0.0,0.1,0.0
+0.3,hidden only (q=0.7),0.0,0.0,0.0
+0.4,hub only (q=0.7),0.0,0.98,0.0
+0.4,hidden only (q=0.7),0.0,0.0,0.0
+0.5,hub only (q=0.7),0.0,1.0,0.0
+0.5,hidden only (q=0.7),0.08,0.08,0.08
+0.6,hub only (q=0.7),0.0,1.0,0.0
+0.6,hidden only (q=0.7),0.99,0.99,0.98
